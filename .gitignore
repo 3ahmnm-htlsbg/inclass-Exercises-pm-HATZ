@@ -8,6 +8,15 @@
 
 Assets/AssetStoreTools*
 
+# PlayMaker
+Assets/Gizmos.meta
+Assets/Gizmos/
+Assets/MyGame.meta
+Assets/MyGame/Scenes/MainScene.unity.meta
+Assets/PlayMaker.meta
+Assets/PlayMaker/
+Assets/Plugins.meta
+Assets/Plugins/
 # Visual Studio cache directory
 .vs/
 
