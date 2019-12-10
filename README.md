@@ -26,5 +26,6 @@ TODO
 - Getting a better use for Git, GitHub and Unity under pressure
 - Making a project on my own
 - refreshing my knowledge with Git, GitHub and Unity
+- Learning how to Create Debug Messages with Integers and Strings
 
 Copyright by HATZ
